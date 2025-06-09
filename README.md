@@ -15,7 +15,7 @@ This repository contains everything you need to complete the lab except for the 
 
 ## UPLOAD & SCAN WITH POLARIS
 ![](https://img.shields.io/badge/steps-blueviolet?style=for-the-badge)
-1. Download the zip file from this [GitHub repository](https://github.com/itsnotjason/polaris-upload-lab-java) onto your local computer
+1. Download the zip file from this [GitHub repository](https://github.com/bma01810/BD-Polaris-CTF1-Upload) onto your local computer
 > [!WARNING]  
 > Some browsers auto unzip. You can typically recover the zip from your trash, or you may need to re-zip the files.   
 2. Log in to Polaris
