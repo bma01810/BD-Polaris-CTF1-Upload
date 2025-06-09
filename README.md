@@ -9,7 +9,7 @@ As part of this lab, we will:
 
 This repository contains everything you need to complete the lab except for the prerequisite listed below. If you have not yet recieved an inviation to the platform contact your Black Duck Sales Engineer.
 
-## $\textsf{\color{#800080}{Prerequisites}}$
+## Prerequisites
 
 1. A Polaris user account with entitlements for SAST and SCA
 
