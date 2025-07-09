@@ -15,8 +15,8 @@ This repository contains everything you need to complete the lab except for the 
 
 ## UPLOAD & SCAN WITH POLARIS
 ![](https://img.shields.io/badge/steps-blueviolet?style=for-the-badge)
-1. Download the zip file from this [GitHub repository](https://github.com/bma01810/BD-Polaris-CTF1-Upload) onto your local computer
-   ![image](https://github.com/user-attachments/assets/0ba1891a-b178-4744-aaa2-967f7ae54217)
+1. Download the zip file from this [GitHub repository](https://github.com/bma01810/BD-Polaris-CTF1-Upload) onto your local computer. Click on the green code button as shown in this screenshot.
+  ![image](https://github.com/user-attachments/assets/27390ce2-9a3b-4ed6-87bf-4daabf5f2048)
 
 > [!WARNING]  
 > Some browsers auto unzip. You can typically recover the zip from your trash, or you may need to re-zip the files.   
