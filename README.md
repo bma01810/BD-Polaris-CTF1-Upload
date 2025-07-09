@@ -26,6 +26,7 @@ This repository contains everything you need to complete the lab except for the 
 and assign SAST and SCA subscriptions from the drop downs prior to clicking Create Application.
 
 ![image](https://github.com/user-attachments/assets/112ac7da-a8cb-46d6-a169-33b48495c02c)
+
 4. Now that your application is created you can add projects. Click, Create + New Project and give it a name and save.
 5. To begin testing, click the 3 dotted menu on the far right and choose "New Test"
 6. Fill in the details, select both SAST and SCA, and upload the zip source file you previously downloaded
